@@ -1,0 +1,10 @@
+name: star
+channels:
+- bioconda
+- mrh8x5
+- conda_gc_test
+- defaults
+dependencies:
+- star=2.7.3a=0
+prefix: /storage/hpc/data/mrh8x5/miniconda/envs/star
+

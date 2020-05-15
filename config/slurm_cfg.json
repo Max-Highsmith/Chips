@@ -1,0 +1,12 @@
+{
+	"REF_INDEX":"../RNA_ANALYSIS/hg38_index",
+	"CORES":"8",
+	"__default__": {
+		"account": "mrh8x5",
+		"mem": "10G",
+		"time": "1:00:00"
+	},
+	"align":{
+		"mem":"100G"
+		}
+}
